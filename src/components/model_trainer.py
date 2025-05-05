@@ -15,7 +15,7 @@ from sklearn.tree import DecisionTreeRegressor
 from xgboost import XGBRegressor
 
 from src.exception import CustomException
-from src.logger import lj
+from src.logger import logging
 
 from src.utils import save_object,evaluate_models
 
@@ -30,7 +30,7 @@ class ModelTrainer:
 
     def initiate_model_trainer(self,train_array,test_array):
         try:
-            lj.info("Split training and test input data")
+            logging.info("Split training and test input data")
             X_train,y_train,X_test,y_test=(
                 train_array[:,:-1],
                 train_array[:,-1],
@@ -38,11 +38,11 @@ class ModelTrainer:
                 test_array[:,-1]
             )
             models = {
-                "Random Forest": RandomForestRegressor()
+                "Random Forest": RandomForestRegressor(),
                 # "Decision Tree": DecisionTreeRegressor(),
                 # "Gradient Boosting": GradientBoostingRegressor(),
                 # "Linear Regression": LinearRegression(),
-                # "XGBRegressor": XGBRegressor(),
+                "XGBRegressor": XGBRegressor()
                 # "CatBoosting Regressor": CatBoostRegressor(verbose=False),
                 # "AdaBoost Regressor": AdaBoostRegressor(),
             }
@@ -56,7 +56,7 @@ class ModelTrainer:
                     'criterion':['poisson'],
                     'max_features':['sqrt'],
                     'n_estimators': [300]
-                }
+                },
                 # "Gradient Boosting":{
                 #     # 'loss':['squared_error', 'huber', 'absolute_error', 'quantile'],
                 #     'learning_rate':[.1,.01,.05,.001],
@@ -66,10 +66,10 @@ class ModelTrainer:
                 #     'n_estimators': [8,16,32,64,128,256]
                 # },
                 # "Linear Regression":{},
-                # "XGBRegressor":{
-                #     'learning_rate':[.1,.01,.05,.001],
-                #     'n_estimators': [8,16,32,64,128,256]
-                # },
+                "XGBRegressor":{
+                    'learning_rate':[0.1],
+                    'n_estimators': [64]
+                },
                 # "CatBoosting Regressor":{
                 #     'depth': [6,8,10],
                 #     'learning_rate': [0.01, 0.05, 0.1],
@@ -97,7 +97,8 @@ class ModelTrainer:
 
             if best_model_score<0.6:
                 raise CustomException("No best model found")
-            lj.info(f"Best found model on both training and testing dataset")
+            logging.info(f"Best found model on both training and testing dataset")
+            logging.info(f'best model is {best_model_name}')
 
             save_object(
                 file_path=self.model_trainer_config.trained_model_file_path,
@@ -107,7 +108,7 @@ class ModelTrainer:
             predicted=best_model.predict(X_test)
 
             r2_square = r2_score(y_test, predicted)
-            lj.info(f"Accuracy of the model is: {r2_square}")
+            logging.info(f"Accuracy of the model is: {r2_square}")
             return r2_square
 
         except Exception as e:

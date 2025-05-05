@@ -1,0 +1,421 @@
+price,fuel type,gear type,Make,Model,Year of manufacture,Colour,Condition,Mileage,Engine Size,Selling Condition,Bought Condition,car,Trim,Drivetrain,Seats,Number of Cylinders,Horse Power,Registered city
+"₦ 7,488,000",Petrol,Automatic,Toyota,Highlander,2004,Black,Local Used,191640,3300,Registered,Imported,Toyota Highlander Limited V6 FWD 2004 Black,Limited V6 FWD,All Wheel,7,6,230,LAGOS
+"₦ 8,300,000",Petrol,Automatic,Toyota,Camry,2007,Black,Local Used,114694,2400,Registered,Imported,Toyota Camry 2007 Black,,,,,,LAGOS
+"₦ 14,700,000",Petrol,Automatic,Honda,Accord,2014,Black,Foreign Used,220548,2400,Imported,Imported,Honda Accord 2014 Black,,,,,,
+"₦ 8,268,000",Petrol,Automatic,Toyota,Camry,2009,Brown,Local Used,109356,2400,Registered,Imported,Toyota Camry 2009 Brown,,,,,,ABUJA
+"₦ 6,760,000",Petrol,Automatic,Lexus,ES,2003,Silver,Local Used,110815,3300,Registered,Registered,Lexus ES 2003 Silver,,,,,,
+"₦ 7,280,000",Petrol,Automatic,Toyota,Camry,2007,Green,Local Used,93713,3500,Registered,Registered,Toyota Camry 2007 Green,,,,,,
+"₦ 17,598,000",Petrol,Automatic,Toyota,Corolla,2019,Black,Foreign Used,147502,1800,Imported,Imported,Toyota Corolla LE (1.8L 4cyl 2A) 2019 Black,LE (1.8L 4cyl 2A),,,,132,
+"₦ 13,520,000",Petrol,Automatic,Lexus,ES,2008,Silver,Local Used,127534,3500,Registered,Imported,Lexus ES 2008 Silver,,,,,,
+"₦ 73,500,000",Petrol,Automatic,Toyota,4-Runner,2020,Gray,Local Used,53689,4000,Registered,Brand new,Toyota 4-Runner Limited 2020 Gray,Limited,,,,,Lagos
+"₦ 7,800,000",Petrol,Automatic,Toyota,Camry,2007,Blue,Local Used,125283,2400,Registered,Imported,Toyota Camry 2007 Blue,,,,,,Lagos
+"₦ 10,400,000",Petrol,Automatic,Toyota,Sienna,2007,Silver,Foreign Used,416979,3500,Imported,Imported,Toyota Sienna LE 4WD 2007 Silver,LE 4WD,All Wheel,7,6,270,
+"₦ 15,750,000",Petrol,Automatic,Mercedes-Benz,GLK-Class,2014,Black,Local Used,119374,3500,Registered,Registered,Mercedes-Benz GLK-Class 2014 Black,,,,,,Abuja
+"₦ 16,120,000",Petrol,Automatic,Toyota,Camry,2016,Black,Local Used,46397,2500,Registered,Imported,Toyota Camry 2016 Black,SE 4dr Sedan (2.5L 4cyl 6A),Front,5,4,178,
+"₦ 13,832,000",Petrol,Automatic,Toyota,RAV4,2009,White,Foreign Used,98560,2500,Imported,Imported,Toyota RAV4 2009 White,,,,,,
+"₦ 19,425,000",Petrol,Automatic,Toyota,Highlander,2012,Gray,Foreign Used,289855,3500,Imported,Imported,Toyota Highlander 2012 Gray,,,,,,
+"₦ 4,200,000",Petrol,Automatic,Toyota,Corolla,2005,Gold,Local Used,261183,1800,Registered,Registered,Toyota Corolla 2005 Gold,,,,,,
+"₦ 4,725,000",Petrol,Automatic,Chevrolet,Traverse,2012,Red,Local Used,115439,3600,Registered,Registered,Chevrolet Traverse 2012 Red,,,,,,Abuja
+"₦ 5,668,000",Petrol,Automatic,Toyota,Yaris,2008,Gray,Local Used,198590,1300,Registered,Registered,Toyota Yaris 2008 Gray,,,,,,Abuja
+"₦ 5,250,000",Diesel,Automatic,Mercedes-Benz,E320,2008,Silver,Local Used,458879,3000,Registered,Imported,Mercedes-Benz E320 2008 Silver,,,,,,Lagos
+"₦ 5,880,000",Petrol,Automatic,Toyota,Camry,2008,Brown,Local Used,239942,,Registered,Registered,Toyota Camry 2008 Brown,,,,,,Abuja
+"₦ 4,160,000",Petrol,Automatic,Toyota,Sienna,1999,Green,Local Used,215701,3000,Registered,Imported,Toyota Sienna 1999 Green,,,,,,Lagos
+"₦ 4,680,000",Petrol,Automatic,Toyota,Camry,2002,Gold,Local Used,349312,2400,Registered,Imported,Toyota Camry 2002 Gold,,,,,,Edo
+"₦ 4,095,000",Petrol,Automatic,Nissan,Pathfinder,2008,Blue,Local Used,139539,4000,Registered,Registered,Nissan Pathfinder 2008 Blue,,,,,,Abuja
+"₦ 4,725,000",Petrol,Automatic,Mercedes-Benz,E350,2007,Black,Local Used,193796,3500,Registered,Registered,Mercedes-Benz E350 2007 Black,,,,,,
+"₦ 4,725,000",Petrol,Automatic,Toyota,Corolla,2003,Brown,Local Used,176718,1800,Registered,Registered,Toyota Corolla 2003 Brown,,,,,,LAGOS
+"₦ 6,825,000",Petrol,Automatic,Lexus,LS,2007,Gray,Foreign Used,236592,4600,Imported,Imported,Lexus LS 2007 Gray,,,,,,
+"₦ 4,200,000",Petrol,Automatic,Mercedes-Benz,E320,2004,Black,Local Used,2500,3200,Registered,Registered,Mercedes-Benz E320 2004 Black,,,,,,ABUJA
+"₦ 6,760,000",Petrol,Automatic,Toyota,Corolla,2003,Gray,Local Used,455148,1800,Registered,Registered,Toyota Corolla 2003 Gray,,,,,,ABUJA
+"₦ 9,450,000",Petrol,Automatic,Volkswagen,Routan,2008,White,Foreign Used,193566,3800,Imported,Imported,Volkswagen Routan 2008 White,,,,,,
+"₦ 4,725,000",Petrol,Automatic,Honda,Accord,2008,Brown,Local Used,79444,3500,Registered,Registered,Honda Accord 2008 Brown,,,,,,LAGOS
+"₦ 21,000,000",Petrol,Automatic,Ford,Edge,2017,Black,Foreign Used,181461,,Imported,Imported,Ford Edge 2017 Black,,,,,,
+"₦ 6,552,000",Petrol,Automatic,Lexus,ES,2006,Gray,Local Used,122685,3300,Registered,Registered,Lexus ES 2006 Gray,,,,,,
+"₦ 16,800,000",Petrol,Automatic,Toyota,Camry,2015,Black,Foreign Used,134027,2500,Imported,Imported,Toyota Camry 2015 Black,SE 4dr Sedan (2.5L 4cyl 6A),Front,5,4,178,
+"₦ 5,720,000",Petrol,Automatic,Toyota,Corolla,2004,Gray,Local Used,405780,1800,Registered,Imported,Toyota Corolla 2004 Gray,,,,,,
+"₦ 11,440,000",Petrol,Automatic,Lexus,RX 350,2009,Red,Local Used,171545,3500,Registered,Imported,Lexus RX 350 2009 Red,,,,,,Lagos
+"₦ 21,840,000",Petrol,Manual,Toyota,Hilux,2013,White,Local Used,150999,2700,Registered,Registered,Toyota Hilux 2013 White,,,,,,Abuja
+"₦ 14,175,000",Petrol,Automatic,Toyota,Sienna,2012,Black,Foreign Used,84459,3500,Imported,Imported,Toyota Sienna 2012 Black,,,,,,
+"₦ 43,575,000",Petrol,Automatic,Mercedes-Benz,GLE-Class,2018,Black,Foreign Used,109962,3500,Imported,Imported,Mercedes-Benz GLE-Class 2018 Black,,,,,,
+"₦ 12,480,000",Petrol,Automatic,Hyundai,Sonata,2012,Blue,Local Used,80382,2000,Registered,Registered,Hyundai Sonata 2012 Blue,,,,,,Lagos
+"₦ 5,720,000",Petrol,Automatic,Toyota,Camry,2003,Blue,Local Used,165852,2400,Registered,Registered,Toyota Camry 2003 Blue,,,,,,
+"₦ 7,280,000",Petrol,Automatic,Honda,CR-V,2008,Black,Local Used,24979,2400,Registered,Registered,Honda CR-V 2008 Black,,,,,,Lagos
+"₦ 26,250,000",Petrol,CVT,Honda,Civic,2017,White,Foreign Used,35420,2000,Imported,Imported,Honda Civic 2017 White,,,,,,
+"₦ 7,592,000",Petrol,Automatic,Acura,MDX,2008,Silver,Local Used,165182,3700,Registered,Imported,Acura MDX 2008 Silver,,,,,,
+"₦ 10,500,000",Petrol,Automatic,Toyota,Sienna,2008,Gray,Foreign Used,120213,3500,Imported,Imported,Toyota Sienna 2008 Gray,,,,,,
+"₦ 6,760,000",Petrol,Automatic,Toyota,Highlander,2002,Black,Local Used,164283,3000,Registered,Imported,Toyota Highlander 2002 Black,,,,,,PLATEAU
+"₦ 6,760,000",Petrol,Automatic,Toyota,Corolla,2005,Silver,Local Used,130010,1800,Registered,Registered,Toyota Corolla 2005 Silver,,,,,,
+"₦ 5,145,000",Petrol,Automatic,Toyota,Sequoia,2004,Black,Local Used,349300,4700,Registered,Registered,Toyota Sequoia 2004 Black,Limited 4dr SUV 4WD (4.7L 8cyl 4A),,,8,,AKWA IBOM
+"₦ 10,500,000",Petrol,Automatic,Ford,F-150,2010,White,Local Used,354600,4600,Registered,Registered,Ford F-150 FX4 2010 White,FX4,All Wheel,,8,314,Abuja
+"₦ 5,200,000",Petrol,Automatic,Toyota,Camry,2003,Black,Local Used,231089,3000,Registered,Imported,Toyota Camry 2003 Black,,,,,,Lagos
+"₦ 5,200,000",Petrol,Automatic,Toyota,Camry,2003,Gray,Local Used,315966,2400,Registered,Registered,Toyota Camry 2003 Gray,,,,,,LAGOS
+"₦ 4,200,000",Petrol,Automatic,Ford,Explorer,2004,Blue,Local Used,,4000,Registered,Imported,Ford Explorer 2004 Blue,,,,,,
+"₦ 10,920,000",Petrol,Automatic,Lexus,RX 330,2004,Silver,Local Used,108123,3300,Registered,Imported,Lexus RX 330 2004 Silver,,,,,,EDO
+"₦ 11,550,000",Petrol,Automatic,Mercedes-Benz,G-Class,2011,Black,Local Used,,4000,Registered,Registered,Mercedes-Benz G-Class Base G 55 AMG 4x4 2011 Black,Base G 55 AMG 4x4,All Wheel,5,8,500,
+"₦ 19,950,000",Petrol,Automatic,Toyota,Highlander,2012,Silver,Foreign Used,282612,3500,Imported,Imported,Toyota Highlander 2012 Silver,,,,,,
+"₦ 9,450,000",Petrol,Automatic,Volkswagen,Routan,2008,White,Foreign Used,193566,3800,Imported,Imported,Volkswagen Routan 2008 White,,,,,,
+"₦ 3,224,000",Petrol,Automatic,Honda,Accord,2005,Black,Local Used,260037,2400,Registered,Registered,Honda Accord 2005 Black,,,,,,
+"₦ 3,990,000",Petrol,Automatic,Lexus,RX 300,1999,Green,Local Used,189798,3000,Registered,Registered,Lexus RX 300 1999 Green,,,,,,ABUJA
+"₦ 60,900,000",Petrol,Manual,Toyota,HiAce,2017,White,Local Used,6060,2400,Registered,Brand new,Toyota HiAce 2017 White,,,,,,ABUJA
+"₦ 50,960,000",Petrol,Automatic,Lexus,RX 350,2016,Gold,Foreign Used,230816,3500,Imported,Imported,Lexus RX 350 2016 Gold,,,,,,
+"₦ 26,250,000",Petrol,Automatic,Mercedes-Benz,M Class,2012,Silver,Foreign Used,261108,3500,Imported,Imported,Mercedes-Benz M Class 2012 Silver,,,,,,
+"₦ 6,240,000",Petrol,Automatic,Lexus,ES,2004,Gold,Local Used,321253,3300,Registered,Imported,Lexus ES 2004 Gold,,,,,,LAGOS
+"₦ 15,600,000",Petrol,Automatic,Toyota,Camry,2012,Black,Local Used,226699,2500,Registered,Imported,Toyota Camry 2012 Black,LE 4dr Sedan (2.5L 4cyl 6A),Front,5,4,178,Lagos
+"₦ 6,936,800",Petrol,Automatic,Toyota,Camry,2008,Black,Local Used,197007,2400,Registered,Imported,Toyota Camry 2008 Black,,,,,,LAGOS
+"₦ 7,072,000",Petrol,Automatic,Toyota,Camry,2008,Blue,Local Used,152341,2500,Registered,Registered,Toyota Camry 2008 Blue,,,,,,
+"₦ 9,152,000",Petrol,Automatic,Toyota,Corolla,2009,Gray,Local Used,129120,1800,Registered,Registered,Toyota Corolla 2009 Gray,,,,,,
+"₦ 70,350,000",Petrol,Automatic,Mercedes-Benz,GLE43,2017,Black,Foreign Used,126621,3000,Imported,Imported,Mercedes-Benz GLE43 2017 Black,,,,,,
+"₦ 28,080,000",Petrol,Automatic,Toyota,Highlander,2008,Silver,Foreign Used,263980,3500,Imported,Imported,Toyota Highlander 2008 Silver,,,,,,
+"₦ 128,625,000",Petrol,Automatic,Mercedes-Benz,GLE-Class,2021,White,Foreign Used,62823,2000,Imported,Imported,Mercedes-Benz GLE-Class 2021 White,,,,,,
+"₦ 3,990,000",Petrol,Automatic,Lexus,RX 300,1999,Green,Local Used,189798,3000,Registered,Registered,Lexus RX 300 1999 Green,,,,,,ABUJA
+"₦ 20,800,000",Petrol,Automatic,Toyota,Camry,2015,White,Local Used,197515,2500,Registered,Registered,Toyota Camry 2015 White,,,,,,
+"₦ 19,240,000",Petrol,Automatic,Toyota,RAV4,2015,Blue,Local Used,291451,2500,Registered,Imported,Toyota RAV4 2015 Blue,,,,,,Lagos
+"₦ 17,472,000",Petrol,Automatic,Toyota,Sienna,2015,Black,Local Used,163040,3500,Registered,Imported,Toyota Sienna 2015 Black,,,,,,
+"₦ 13,000,000",Petrol,Automatic,Hyundai,Sonata,2013,Black,Foreign Used,166296,2400,Imported,Imported,Hyundai Sonata 2013 Black,,,,,,
+"₦ 9,360,000",Petrol,Automatic,Honda,Pilot,2007,Green,Foreign Used,263624,3500,Imported,Imported,Honda Pilot 2007 Green,,,,,,
+"₦ 21,000,000",Petrol,Automatic,Lexus,ES,2013,Black,Foreign Used,154960,3500,Imported,Imported,Lexus ES 2013 Black,,,,,,
+"₦ 28,350,000",Petrol,Automatic,Toyota,Sienna,2017,Gray,Local Used,92501,3500,Registered,Imported,Toyota Sienna 2017 Gray,,,,,,DELTA
+"₦ 17,680,000",Petrol,Automatic,Toyota,Highlander,2008,Blue,Foreign Used,278931,3500,Imported,Imported,Toyota Highlander 2008 Blue,,,,,,
+"₦ 4,160,000",Petrol,Automatic,Acura,MDX,2002,Black,Local Used,276903,3500,Registered,Imported,Acura MDX 2002 Black,,,,,,
+"₦ 3,120,000",Petrol,Automatic,Honda,Accord,2004,Gold,Local Used,249785,2400,Registered,Registered,Honda Accord 2004 Gold,,,,,,LAGOS
+"₦ 35,360,000",Petrol,Automatic,Toyota,Camry,2018,White,Foreign Used,92281,,Imported,Imported,Toyota Camry 2018 White,,,,,,
+"₦ 6,552,000",Petrol,Automatic,Lexus,ES,2004,Silver,Local Used,190871,3300,Registered,Imported,Lexus ES 2004 Silver,,,,,,Lagos
+"₦ 40,950,000",Petrol,Automatic,Land Rover,Range Rover,2016,Black,Local Used,120833,5000,Registered,Imported,Land Rover Range Rover 2016 Black,,,,,,
+"₦ 36,400,000",Petrol,Automatic,Toyota,Camry,2018,Red,Foreign Used,80074,2500,Imported,Imported,Toyota Camry 2018 Red,,,,,,
+"₦ 58,905,000",Petrol,Automatic,Toyota,Highlander,2021,Silver,Foreign Used,212968,3500,Imported,Imported,Toyota Highlander 2021 Silver,,,,,,
+"₦ 28,080,000",Petrol,Automatic,Toyota,4-Runner,2014,Black,Local Used,81147,3500,Registered,Imported,Toyota 4-Runner 2014 Black,,,,,,Lagos
+"₦ 20,800,000",Petrol,Automatic,Lexus,RX 350,2012,Gray,Local Used,143785,3500,Registered,Imported,Lexus RX 350 2012 Gray,,,,,,
+"₦ 12,600,000",Petrol,Automatic,Mercedes-Benz,GLK-Class,2010,Gray,Local Used,145109,3500,Registered,Registered,Mercedes-Benz GLK-Class 2010 Gray,,,,,,
+"₦ 17,850,000",Petrol,Automatic,Toyota,Venza,2010,Silver,Foreign Used,119748,3500,Imported,Imported,Toyota Venza 2010 Silver,,,,,,
+"₦ 13,125,000",Petrol,Automatic,Toyota,Camry,2016,Black,Local Used,131000,2500,Registered,Imported,Toyota Camry 2016 Black,,,,,,
+"₦ 7,072,000",Petrol,Automatic,Toyota,Camry,2009,Black,Local Used,212090,2400,Registered,Registered,Toyota Camry 2009 Black,,,,,,
+"₦ 30,160,000",Petrol,Automatic,Lexus,GX,2012,Black,Local Used,204465,4600,Registered,Imported,Lexus GX 2012 Black,,,,,,Lagos
+"₦ 14,175,000",Petrol,Automatic,Toyota,RAV4,2011,White,Foreign Used,117080,2500,Imported,Imported,Toyota RAV4 2.5 4x4 2011 White,2.5 4x4,All Wheel,5,4,,
+"₦ 13,520,000",Petrol,Automatic,Mercedes-Benz,GL-Class,2010,Gray,Local Used,245960,4600,Registered,Imported,Mercedes-Benz GL-Class 2010 Gray,,,,,,Lagos
+"₦ 13,125,000",Petrol,Automatic,Toyota,RAV4,2012,Blue,Foreign Used,448566,2500,Imported,Imported,Toyota RAV4 2012 Blue,,,,,,
+"₦ 11,550,000",Petrol,Automatic,Hyundai,Sonata,2012,White,Foreign Used,187651,2000,Imported,Imported,Hyundai Sonata 2012 White,Limited 2.0T Sedan (2.0L 4cyl 6A),,,4,,
+"₦ 5,460,000",Petrol,CVT,Toyota,Camry,2007,Black,Local Used,288898,3500,Registered,Registered,Toyota Camry 2007 Black,,,,,,LAGOS
+"₦ 7,280,000",Petrol,Automatic,Lexus,ES,2003,Gold,Local Used,272879,3000,Registered,Registered,Lexus ES 2003 Gold,,,,,,
+"₦ 15,080,000",Petrol,Automatic,Hyundai,Sonata,2015,Orange,Local Used,113216,2400,Registered,Imported,Hyundai Sonata 2015 Orange,,,,,,ABUJA
+"₦ 18,375,000",Petrol,Automatic,Honda,Accord,2017,Gray,Foreign Used,47406,2400,Imported,Imported,Honda Accord 2017 Gray,,,,,,
+"₦ 4,160,000",Petrol,Automatic,Honda,Accord,2007,Gray,Local Used,283705,2000,Registered,Registered,Honda Accord 2007 Gray,,,,,,
+"₦ 6,240,000",Petrol,Automatic,Lexus,ES,2003,Black,Local Used,182000,3300,Registered,Imported,Lexus ES 2003 Black,,,,,,
+"₦ 14,175,000",Petrol,Automatic,Lexus,RX 330,2004,Gold,Foreign Used,339147,3300,Imported,Imported,Lexus RX 330 2004 Gold,,,,,,
+"₦ 5,928,000",Petrol,Automatic,Toyota,Camry,2002,White,Local Used,387820,2400,Registered,Imported,Toyota Camry 2002 White,,,,,,Abuja
+"₦ 55,120,000",Petrol,Automatic,Lexus,RX 350,2017,Gray,Foreign Used,147874,3500,Imported,Imported,Lexus RX 350 2017 Gray,,,,,,
+"₦ 17,160,000",Petrol,Automatic,Toyota,Corolla,2016,Red,Foreign Used,71055,1800,Imported,Imported,Toyota Corolla 2016 Red,,,,,,
+"₦ 36,400,000",Petrol,Automatic,Toyota,Highlander,2015,Gray,Foreign Used,210207,3500,Imported,Imported,Toyota Highlander 2015 Gray,,,,,,
+"₦ 52,000,000",Petrol,Automatic,Lexus,RX 350,2017,Black,Foreign Used,244466,3500,Imported,Imported,Lexus RX 350 2017 Black,,,,,,
+"₦ 22,050,000",Petrol,Automatic,Toyota,Venza,2015,Blue,Foreign Used,130106,2700,Imported,Imported,Toyota Venza 2015 Blue,,,,,,
+"₦ 15,080,000",Petrol,Automatic,Toyota,Camry,2013,Gray,Foreign Used,117298,2500,Imported,Imported,Toyota Camry 2013 Gray,,,,,,
+"₦ 24,960,000",Petrol,Automatic,Mercedes-Benz,C300,2015,Gray,Local Used,106396,2000,Registered,Registered,Mercedes-Benz C300 2015 Gray,,,,,,Abuja
+"₦ 16,590,000",Petrol,Automatic,Toyota,Highlander,2009,Black,Foreign Used,169592,3500,Imported,Imported,Toyota Highlander 2009 Black,,,,,,
+"₦ 13,125,000",Petrol,Automatic,Nissan,Quest,2011,Silver,Foreign Used,139418,3500,Imported,Imported,Nissan Quest SV 2011 Silver,SV,Front Wheel,7,6,264,
+"₦ 8,840,000",Petrol,Automatic,Toyota,Camry,2011,Silver,Local Used,,2400,Registered,Registered,Toyota Camry 2011 Silver,,,,,,
+"₦ 7,779,200",Petrol,Automatic,Toyota,Highlander,2004,Silver,Local Used,195456,3300,Registered,Registered,Toyota Highlander 2004 Silver,,,,,,Lagos
+"₦ 84,000,000",Petrol,Automatic,Mercedes-Benz,GLE43,2016,Gray,Foreign Used,155014,3000,Imported,Imported,Mercedes-Benz GLE43 2016 Gray,,,,,,
+"₦ 82,160,000",Petrol,Automatic,Toyota,Land Cruiser Prado,2022,Black,Local Used,84230,,Registered,Imported,Toyota Land Cruiser Prado 2022 Black,,,,,,KADUNA
+"₦ 16,275,000",Petrol,Automatic,Toyota,Highlander,2009,Gray,Foreign Used,73228,3500,Imported,Imported,Toyota Highlander 2009 Gray,,,,,,
+"₦ 16,120,000",Petrol,Automatic,Toyota,Highlander,2008,Red,Local Used,296284,3500,Registered,Imported,Toyota Highlander 2008 Red,,,,,,LAGOS
+"₦ 23,400,000",Petrol,Automatic,Lexus,RX 350,2011,Silver,Foreign Used,255046,3500,Imported,Imported,Lexus RX 350 2011 Silver,,,,,,
+"₦ 6,240,000",Petrol,Automatic,Toyota,Sienna,2004,Red,Local Used,300668,3300,Registered,Imported,Toyota Sienna 2004 Red,,,,,,OGUN
+"₦ 6,240,000",Petrol,Automatic,Toyota,Sienna,2004,Red,Local Used,300668,3300,Registered,Imported,Toyota Sienna 2004 Red,,,,,,OGUN
+"₦ 9,360,000",Petrol,Automatic,Mercedes-Benz,M Class,2006,Black,Local Used,251253,3500,Registered,Imported,Mercedes-Benz M Class 2006 Black,,,,,,Lagos
+"₦ 15,392,000",Petrol,Automatic,Toyota,Camry,2012,Red,Foreign Used,89208,2500,Imported,Imported,Toyota Camry 2012 Red,,,,,,
+"₦ 10,400,000",Petrol,Automatic,Toyota,Sienna,2008,Gray,Local Used,107606,3500,Registered,Imported,Toyota Sienna 2008 Gray,,,,,,
+"₦ 8,320,000",Petrol,Automatic,Toyota,Camry,2008,Red,Local Used,234062,2500,Registered,Registered,Toyota Camry 2008 Red,,,,,,LAGOS
+"₦ 21,018,375",Petrol,Automatic,Toyota,Venza,2015,Blue,Foreign Used,207513,2700,Imported,Imported,Toyota Venza 2015 Blue,,,,,,
+"₦ 11,970,000",Petrol,Automatic,Hyundai,Sonata,2012,Silver,Foreign Used,203293,2400,Imported,Imported,Hyundai Sonata 2012 Silver,,,,,,
+"₦ 31,200,000",Petrol,Automatic,Lexus,GX,2012,Black,Local Used,121276,4600,Registered,Registered,Lexus GX 2012 Black,,,,,,ABUJA
+"₦ 40,950,000",Petrol,Automatic,Lexus,GX,2017,Black,Local Used,145178,,Registered,Imported,Lexus GX 2017 Black,,,,,,LAGOS
+"₦ 12,495,000",Petrol,Automatic,Honda,Pilot,2011,Blue,Foreign Used,306802,3300,Imported,Imported,Honda Pilot 2011 Blue,,,,,,
+"₦ 63,000,000",Petrol,Automatic,Toyota,Hilux,2021,White,Foreign Used,11679,2700,Imported,Imported,Toyota Hilux 2021 White,,,,,,
+"₦ 29,541,750",Petrol,Automatic,Lexus,GX,2013,Black,Local Used,80400,4600,Registered,Registered,Lexus GX 2013 Black,,,,,,
+"₦ 8,320,000",Petrol,Automatic,Mercedes-Benz,C300,2008,Black,Local Used,166325,3000,Registered,Imported,Mercedes-Benz C300 2008 Black,,,,,,
+"₦ 8,840,000",Petrol,Automatic,Mercedes-Benz,C300,2008,Purple,Local Used,201870,3000,Registered,Registered,Mercedes-Benz C300 2008 Purple,,,,,,Abuja
+"₦ 7,280,000",Petrol,Automatic,Toyota,Camry,2007,Black,Local Used,282899,2400,Registered,Registered,Toyota Camry 2007 Black,,,,,,BAYELSA
+"₦ 27,040,000",Petrol,Automatic,Toyota,Highlander,2016,Black,Local Used,127168,3500,Registered,Registered,Toyota Highlander 2016 Black,,,,,,
+"₦ 11,440,000",Petrol,Automatic,Lexus,ES,2011,Black,Local Used,228207,3500,Registered,Registered,Lexus ES 2011 Black,,,,,,
+"₦ 45,085,714",Petrol,Automatic,Mercedes-Benz,GLE-Class,2016,Beige,Foreign Used,214735,3500,Imported,Imported,Mercedes-Benz GLE-Class 2016 Beige,,,,,,
+"₦ 64,480,000",Petrol,Automatic,Toyota,Highlander,2020,Black,Foreign Used,70690,3500,Imported,Imported,Toyota Highlander 2020 Black,,,,,,
+"₦ 72,800,000",Petrol,Automatic,Mercedes-Benz,GLE-Class,2018,Black,Foreign Used,137781,3500,Imported,Imported,Mercedes-Benz GLE-Class 2018 Black,,,,,,
+"₦ 7,800,000",Petrol,Automatic,Toyota,Camry,2006,Gray,Local Used,178804,2400,Registered,Registered,Toyota Camry 2006 Gray,,,,,,LAGOS
+"₦ 99,000,000",Petrol,Automatic,Mercedes-Benz,GLE-Class,2020,Silver,Foreign Used,93974,3500,Imported,Imported,Mercedes-Benz GLE-Class 2020 Silver,,,,,,
+"₦ 8,840,000",Petrol,Automatic,Mercedes-Benz,M Class,2006,Blue,Local Used,,5000,Registered,Registered,Mercedes-Benz M Class 2006 Blue,,,,,,Lagos
+"₦ 20,280,000",Petrol,Automatic,Toyota,Camry,2015,Gold,Foreign Used,126811,2500,Imported,Imported,Toyota Camry 2015 Gold,LE 4dr Sedan (2.5L 4cyl 6A),Front,5,4,178,
+"₦ 8,320,000",Petrol,Automatic,Toyota,Corolla,2010,Gray,Local Used,134920,1800,Registered,Registered,Toyota Corolla 2010 Gray,,,,,,LAGOS
+"₦ 16,800,000",Petrol,Automatic,Mercedes-Benz,GLK-Class,2013,Black,Local Used,324159,3500,Registered,Registered,Mercedes-Benz GLK-Class 2013 Black,,,,,,OGUN STATE
+"₦ 41,600,000",Petrol,Automatic,Lexus,RX 350,2016,Black,Local Used,89009,3000,Registered,Imported,Lexus RX 350 2016 Black,,,,,,
+"₦ 4,680,000",Petrol,Automatic,Lexus,RX 300,1999,Gold,Local Used,245154,3000,Registered,Registered,Lexus RX 300 1999 Gold,,,,,,
+"₦ 3,328,000",Petrol,Automatic,Honda,Accord,2004,Blue,Local Used,207688,2400,Registered,Registered,Honda Accord 2004 Blue,,,,,,
+"₦ 2,940,000",Petrol,Automatic,Honda,Accord,2004,Green,Local Used,275288,2800,Registered,Registered,Honda Accord 2.4 Type S Automatic 2004 Green,2.4 Type S Automatic,Front Wheel,5,,,LAGOS
+"₦ 3,328,000",Petrol,Automatic,Honda,Accord,2004,Blue,Local Used,207688,2400,Registered,Registered,Honda Accord 2004 Blue,,,,,,
+"₦ 21,632,000",Petrol,Automatic,Toyota,Highlander,2013,Silver,Foreign Used,116522,3500,Imported,Imported,Toyota Highlander 2013 Silver,,,,,,
+"₦ 31,096,000",Petrol,Automatic,Toyota,Highlander,2012,White,Foreign Used,144256,3500,Imported,Imported,Toyota Highlander Limited 2012 White,Limited,Front Wheel,5,6,274,
+"₦ 31,200,000",Petrol,Automatic,Mercedes-Benz,M Class,2014,Black,Foreign Used,197720,3500,Imported,Imported,Mercedes-Benz M Class 2014 Black,,,,,,
+"₦ 2,912,000",Petrol,Automatic,Toyota,Camry,1998,Gray,Local Used,241613,2200,Registered,Registered,Toyota Camry 1998 Gray,,,,,,
+"₦ 8,320,000",Petrol,Automatic,Toyota,Camry,2007,Gray,Local Used,152314,2500,Registered,Registered,Toyota Camry 2007 Gray,,,,,,
+"₦ 36,400,000",Petrol,Automatic,Mercedes-Benz,GL-Class,2015,White,Local Used,174409,3000,Registered,Imported,Mercedes-Benz GL-Class 2015 White,,,,,,
+"₦ 13,000,000",Petrol,Automatic,Lexus,ES,2011,White,Local Used,156801,3500,Registered,Imported,Lexus ES 2011 White,,,,,,Abuja
+"₦ 42,105,000",Petrol,Automatic,Mercedes-Benz,GLE-Class,2016,Black,Foreign Used,129073,3500,Imported,Imported,Mercedes-Benz GLE-Class 2016 Black,,,,,,
+"₦ 26,250,000",Petrol,Automatic,Mercedes-Benz,M Class,2013,Black,Foreign Used,111645,3500,Imported,Imported,Mercedes-Benz M Class 2013 Black,,,,,,
+"₦ 13,000,000",Petrol,Automatic,Toyota,Camry,2014,Silver,Local Used,133064,2500,Registered,Registered,Toyota Camry 2014 Silver,,,,,,ABUJA
+"₦ 7,800,000",Petrol,Automatic,Toyota,Sienna,2004,Silver,Local Used,350430,3300,Registered,Registered,Toyota Sienna 2004 Silver,,,,,,Lagos
+"₦ 23,400,000",Petrol,Automatic,Toyota,Avalon,2015,Gray,Foreign Used,170149,3500,Imported,Imported,Toyota Avalon 2015 Gray,Limited 4dr Sedan (3.5L 6cyl 6A),Front Wheel,5,6,268,
+"₦ 14,560,000",Petrol,Automatic,Toyota,Camry,2013,Black,Local Used,97279,3500,Registered,Imported,Toyota Camry 2013 Black,,,,,,ABUJA
+"₦ 17,680,000",Petrol,Automatic,Toyota,Avalon,2016,Blue,Local Used,106374,3500,Registered,Registered,Toyota Avalon 2016 Blue,,,,,,LAGOS
+"₦ 34,650,000",Petrol,Automatic,Toyota,Highlander,2017,Blue,Foreign Used,131684,3500,Imported,Imported,Toyota Highlander 2017 Blue,,,,,,
+"₦ 5,670,000",Petrol,Automatic,Toyota,Sienna,2004,Blue,Local Used,144616,3500,Registered,Registered,Toyota Sienna 2004 Blue,,,,,,EBONYI
+"₦ 4,472,000",Petrol,Automatic,Acura,MDX,2004,Gray,Local Used,181050,3500,Registered,Imported,Acura MDX Sport Utility 2004 Gray,Sport Utility,All Wheel,7,6,265,LAGOS
+"₦ 13,000,000",Petrol,Automatic,Toyota,Corolla,2010,Blue,Foreign Used,98535,1800,Imported,Imported,Toyota Corolla 2010 Blue,,,,,,
+"₦ 6,240,000",Petrol,Automatic,Honda,Pilot,2006,Red,Local Used,86906,3500,Registered,Registered,Honda Pilot 2006 Red,,,,,,ABUJA
+"₦ 23,920,000",Petrol,Automatic,Mercedes-Benz,M Class,2014,Gray,Local Used,142825,3500,Registered,Imported,Mercedes-Benz M Class 2014 Gray,,,,,,LAGOS
+"₦ 14,560,000",Petrol,Automatic,Toyota,Camry,2012,Red,Foreign Used,97810,2500,Imported,Imported,Toyota Camry 2012 Red,,,,,,
+"₦ 20,055,000",Petrol,Automatic,Lexus,RX,2015,Black,Local Used,92008,3500,Registered,Imported,Lexus RX 2015 Black,,,,,,LAGOS
+"₦ 14,726,250",Petrol,Automatic,Hyundai,Sonata,2016,Red,Foreign Used,109779,2400,Imported,Imported,Hyundai Sonata 2016 Red,,,,,,
+"₦ 14,560,000",Petrol,Automatic,Toyota,Corolla,2015,Gray,Local Used,63521,1800,Registered,Imported,Toyota Corolla 2015 Gray,,,,,,
+"₦ 21,000,000",Petrol,Automatic,Toyota,Avalon,2015,Blue,Foreign Used,104423,3500,Imported,Imported,Toyota Avalon 2015 Blue,,,,,,
+"₦ 12,480,000",Petrol,Automatic,Lexus,ES,2007,Blue,Local Used,231462,3500,Registered,Imported,Lexus ES 2007 Blue,,,,,,
+"₦ 8,320,000",Petrol,Automatic,Toyota,Camry,2007,White,Local Used,110690,2400,Registered,Registered,Toyota Camry 2007 White,,,,,,Ondo state
+"₦ 8,840,000",Petrol,Automatic,Toyota,Corolla,2009,Red,Local Used,202483,1800,Registered,Imported,Toyota Corolla 2009 Red,,,,,,
+"₦ 26,000,000",Petrol,Automatic,Toyota,Venza,2015,Gray,Foreign Used,169626,3500,Imported,Imported,Toyota Venza 2015 Gray,,,,,,
+"₦ 5,040,000",Petrol,Automatic,Toyota,Corolla,2005,Red,Local Used,,1800,Registered,Registered,Toyota Corolla 2005 Red,,,,,,LAGOS
+"₦ 11,250,000",Petrol,Automatic,Hyundai,Sonata,2014,Black,Local Used,282884,2400,Registered,Imported,Hyundai Sonata 2014 Black,,,,,,Delta
+"₦ 5,720,000",Petrol,Automatic,Honda,Accord,2008,Green,Local Used,159927,2400,Registered,Registered,Honda Accord 2008 Green,,,,,,LAGOS
+"₦ 13,125,000",Petrol,Automatic,Toyota,RAV4,2012,Blue,Foreign Used,448566,2500,Imported,Imported,Toyota RAV4 2012 Blue,,,,,,
+"₦ 17,850,000",Petrol,Automatic,Acura,MDX,2017,Black,Foreign Used,68534,3500,Imported,Imported,Acura MDX 2017 Black,,,,,,
+"₦ 3,640,000",Petrol,Automatic,Toyota,Sienna,2000,White,Local Used,222401,3000,Registered,Registered,Toyota Sienna 2000 White,,,,,,KADUNA
+"₦ 11,340,000",Petrol,Automatic,Mercedes-Benz,E350,2011,Silver,Local Used,191399,3500,Registered,Imported,Mercedes-Benz E350 2011 Silver,,,,,,Abia
+"₦ 5,200,000",Petrol,Automatic,Honda,CR-V,2005,Red,Local Used,232150,2400,Registered,Imported,Honda CR-V 2005 Red,,,,,,
+"₦ 5,145,000",Petrol,Automatic,Toyota,Sequoia,2004,Black,Local Used,349300,4700,Registered,Registered,Toyota Sequoia 2004 Black,Limited 4dr SUV 4WD (4.7L 8cyl 4A),,,8,,AKWA IBOM
+"₦ 4,725,000",Petrol,Automatic,Toyota,Corolla,2007,Gold,Local Used,185093,1800,Registered,Registered,Toyota Corolla LE 2007 Gold,LE,Front,5,4,128,AKWA IBOM
+"₦ 3,675,000",Petrol,Automatic,Toyota,Matrix,2006,Red,Local Used,239964,1800,Registered,Registered,Toyota Matrix 2006 Red,,,,,,
+"₦ 4,200,000",Petrol,Automatic,Toyota,Avalon,2001,Black,Local Used,,3000,Registered,Imported,Toyota Avalon 2001 Black,,,,,,DELTA
+"₦ 8,632,000",Petrol,Automatic,Toyota,Corolla,2009,Gray,Local Used,130467,1800,Registered,Registered,Toyota Corolla 2009 Gray,,,,,,ABUJA
+"₦ 19,950,000",Petrol,Automatic,Honda,Civic,2017,Black,Foreign Used,202198,1500,Imported,Imported,Honda Civic 2017 Black,EX 4dr Hatchback (1.5L 4cyl),Front Wheel,5,4,174,
+"₦ 4,935,000",Petrol,Manual,Peugeot,206,2005,Blue,Foreign Used,163499,1600,Imported,Imported,Peugeot 206 1.6 HDI 2005 Blue,1.6 HDI,Front Wheel,5,4,109,
+"₦ 8,216,000",Petrol,Automatic,Toyota,Camry,2007,Gray,Local Used,271802,2400,Registered,Imported,Toyota Camry 2007 Gray,,,,,,
+"₦ 37,750,000",Petrol,Automatic,Mercedes-Benz,GL-Class,2014,Silver,Foreign Used,107442,4700,Imported,Imported,Mercedes-Benz GL-Class 2014 Silver,GL350 BlueTEC 4MATIC 4dr SUV AWD (3.0L 6cyl Turbodiesel 7A),All Wheel,7,6,240,
+"₦ 16,120,000",Petrol,Automatic,Mercedes-Benz,E350,2010,Black,Local Used,357978,3500,Registered,Registered,Mercedes-Benz E350 2010 Black,,,,,,Lagos
+"₦ 13,000,000",Petrol,Automatic,Toyota,Corolla,2015,Black,Local Used,101538,1800,Registered,Imported,Toyota Corolla 2015 Black,,,,,,LAGOS
+"₦ 18,720,000",Petrol,Automatic,Mercedes-Benz,GLK-Class,2012,Black,Foreign Used,275094,3500,Imported,Imported,Mercedes-Benz GLK-Class 2012 Black,,,,,,
+"₦ 4,160,000",Petrol,Automatic,Toyota,Camry,2002,Silver,Local Used,264964,2400,Registered,Imported,Toyota Camry 2002 Silver,,,,,,LAGOS
+"₦ 15,750,000",Petrol,Automatic,Mercedes-Benz,GLK-Class,2010,White,Foreign Used,4988,3500,Imported,Imported,Mercedes-Benz GLK-Class 2010 White,,,,,,
+"₦ 13,520,000",Petrol,Automatic,Toyota,Corolla,2015,Gray,Local Used,213438,1800,Registered,Registered,Toyota Corolla 2015 Gray,,,,,,
+"₦ 47,250,000",Petrol,Automatic,Mercedes-Benz,GLS-Class,2017,Gray,Foreign Used,,3000,Imported,Imported,Mercedes-Benz GLS-Class 2017 Gray,,,,,,
+"₦ 16,120,000",Petrol,Automatic,Honda,Accord,2014,Black,Foreign Used,271251,2400,Imported,Imported,Honda Accord 2014 Black,,,,,,
+"₦ 13,104,000",Petrol,Automatic,Lexus,ES,2012,Black,Local Used,78098,3500,Registered,Registered,Lexus ES 2012 Black,,,,,,LAGOS
+"₦ 30,160,000",Petrol,Automatic,Lexus,RX 350,2012,White,Foreign Used,105757,3500,Imported,Imported,Lexus RX 350 2012 White,,,,,,
+"₦ 22,050,000",Petrol,Automatic,Toyota,Avalon,2015,White,Foreign Used,66665,3000,Imported,Imported,Toyota Avalon 2015 White,,,,,,
+"₦ 29,120,000",Petrol,Automatic,Mercedes-Benz,M Class,2014,White,Foreign Used,263096,3500,Imported,Imported,Mercedes-Benz M Class 2014 White,,,,,,
+"₦ 12,584,000",Petrol,Automatic,Honda,CR-V,2008,Silver,Local Used,188041,2400,Registered,Imported,Honda CR-V 2.4 EX 4x4 Automatic 2008 Silver,2.4 EX 4x4 Automatic,All Wheel,5,4,168,LAGOS
+"₦ 14,560,000",Petrol,Automatic,Toyota,Highlander,2008,Silver,Local Used,141601,3500,Registered,Imported,Toyota Highlander 2008 Silver,,,,,,LAGOS
+"₦ 12,650,000",Petrol,CVT,Toyota,Corolla,2014,Black,Local Used,154997,1800,Registered,Imported,Toyota Corolla 2014 Black,LE Eco Plus 4dr Sedan (1.8L 4cyl CVT),Front,,4,140,LAGOS
+"₦ 21,000,000",Petrol,Automatic,Toyota,Highlander,2013,Silver,Foreign Used,241812,3500,Imported,Imported,Toyota Highlander 2013 Silver,,,,,,
+"₦ 8,840,000",Petrol,Automatic,Toyota,Corolla,2012,Gold,Local Used,177542,1800,Registered,Registered,Toyota Corolla 2012 Gold,,,,,,Oyo state
+"₦ 6,300,000",Petrol,Automatic,Toyota,Camry,2009,Green,Local Used,250140,2000,Registered,Registered,Toyota Camry 2009 Green,,,,,,Lagos
+"₦ 45,150,000",Petrol,Automatic,Mercedes-Benz,GLC-Class,2018,White,Foreign Used,80253,2000,Imported,Imported,Mercedes-Benz GLC-Class 2018 White,,,,,,
+"₦ 7,280,000",Petrol,Automatic,Toyota,Camry,2007,Red,Local Used,310174,2400,Registered,Registered,Toyota Camry 2007 Red,,,,,,LAGOS
+"₦ 16,640,000",Petrol,Automatic,Lexus,ES,2011,Blue,Foreign Used,129740,3500,Imported,Imported,Lexus ES 2011 Blue,,,,,,
+"₦ 36,400,000",Petrol,Automatic,Mercedes-Benz,M Class,2015,Gray,Foreign Used,189823,3500,Imported,Imported,Mercedes-Benz M Class 2015 Gray,,,,,,
+"₦ 16,120,000",Petrol,Automatic,Toyota,Venza,2011,Gray,Local Used,84699,3500,Registered,Imported,Toyota Venza 2011 Gray,,,,,,
+"₦ 24,150,000",Petrol,Automatic,Infiniti,Q60,2015,Blue,Local Used,76974,3500,Registered,Imported,Infiniti Q60 2015 Blue,,,,,,
+"₦ 60,900,000",Petrol,Automatic,Toyota,Highlander,2020,Black,Foreign Used,28762,3500,Imported,Imported,Toyota Highlander 2020 Black,,,,,,
+"₦ 7,350,000",Petrol,Automatic,Toyota,Camry,2011,Black,Local Used,172580,2500,Registered,Imported,Toyota Camry 2011 Black,,,,,,
+"₦ 10,500,000",Petrol,Automatic,Toyota,Sienna,2009,Blue,Foreign Used,164497,3500,Imported,Imported,Toyota Sienna 2009 Blue,,,,,,
+"₦ 23,920,000",Petrol,Automatic,Toyota,Sienna,2015,Black,Foreign Used,130969,3500,Imported,Imported,Toyota Sienna 2015 Black,,,,,,
+"₦ 23,920,000",Petrol,Automatic,Toyota,Sienna,2015,Black,Foreign Used,130969,3500,Imported,Imported,Toyota Sienna 2015 Black,,,,,,
+"₦ 15,600,000",Petrol,Automatic,Lexus,RX,2009,White,Foreign Used,177627,3500,Imported,Imported,Lexus RX 2009 White,,,,,,
+"₦ 29,120,000",Petrol,Automatic,Mercedes-Benz,M Class,2012,Gray,Foreign Used,225534,3500,Imported,Imported,Mercedes-Benz M Class 2012 Gray,,,,,,
+"₦ 19,425,000",Petrol,Automatic,Toyota,Venza,2011,Black,Foreign Used,144796,2500,Imported,Imported,Toyota Venza 2011 Black,,,,,,
+"₦ 19,845,000",Petrol,Automatic,Mercedes-Benz,GLK-Class,2013,Black,Foreign Used,248071,3500,Imported,Imported,Mercedes-Benz GLK-Class 2013 Black,,,,,,
+"₦ 36,400,000",Petrol,Automatic,Toyota,Land Cruiser Prado,2012,Black,Local Used,238531,2700,Registered,Brand new,Toyota Land Cruiser Prado 2.7 i 2012 Black,2.7 i,All Wheel,5,4,163,
+"₦ 13,520,000",Petrol,Automatic,Toyota,RAV4,2007,White,Foreign Used,105742,2400,Imported,Imported,Toyota RAV4 2007 White,,,,,,
+"₦ 9,880,000",Petrol,Automatic,Toyota,Corolla,2010,Red,Local Used,330299,1800,Registered,Registered,Toyota Corolla 2010 Red,,,,,,
+"₦ 29,120,000",Petrol,Automatic,Mercedes-Benz,M Class,2013,Black,Foreign Used,116376,3500,Imported,Imported,Mercedes-Benz M Class 2013 Black,,,,,,
+"₦ 9,880,000",Petrol,Automatic,Toyota,Corolla,2009,Red,Local Used,282481,1800,Registered,Imported,Toyota Corolla 2009 Red,LE 4dr Sedan (1.8L 4 cyl 4A),Front,,4,132,Kastina
+"₦ 15,750,000",Petrol,Automatic,Toyota,Highlander,2008,Black,Foreign Used,438226,3500,Imported,Imported,Toyota Highlander 2008 Black,,,,,,
+"₦ 4,680,000",Petrol,Automatic,Toyota,Camry,2002,Silver,Local Used,368139,2400,Registered,Registered,Toyota Camry 2002 Silver,,,,,,IMO
+"₦ 35,175,000",Petrol,Automatic,Lexus,GX,2011,Black,Local Used,56834,4600,Registered,Registered,Lexus GX 460 2011 Black,460,All Wheel,7,8,305,
+"₦ 15,618,750",Petrol,Automatic,Mercedes-Benz,GLK-Class,2011,Black,Foreign Used,128980,3500,Imported,Imported,Mercedes-Benz GLK-Class 2011 Black,,,,,,
+"₦ 16,120,000",Petrol,Automatic,Hyundai,Sonata,2014,Red,Foreign Used,234200,2000,Imported,Imported,Hyundai Sonata 2014 Red,,,,,,
+"₦ 29,120,000",Petrol,Automatic,Toyota,Highlander,2014,Burgandy,Local Used,136488,3500,Registered,Imported,Toyota Highlander 2014 Burgandy,LE 4dr SUV AWD (3.5L 6cyl 6A),All Wheel,8,6,270,
+"₦ 16,640,000",Petrol,Automatic,Hyundai,Sonata,2015,Black,Local Used,164530,2400,Registered,Imported,Hyundai Sonata 2015 Black,,,,,,
+"₦ 23,100,000",Petrol,Automatic,Toyota,RAV4,2014,Gray,Foreign Used,262304,2500,Imported,Imported,Toyota RAV4 2014 Gray,,,,,,
+"₦ 20,800,000",Petrol,Automatic,Toyota,Camry,2016,Black,Foreign Used,191564,2500,Imported,Imported,Toyota Camry 2016 Black,,,,,,
+"₦ 15,658,333",Petrol,Automatic,Toyota,Corolla,2015,Red,Foreign Used,206199,1800,Imported,Imported,Toyota Corolla 2015 Red,,,,,,
+"₦ 18,283,200",Petrol,Automatic,Mercedes-Benz,GLK-Class,2012,Silver,Foreign Used,294151,3500,Imported,Imported,Mercedes-Benz GLK-Class 2012 Silver,,,,,,
+"₦ 26,250,000",Petrol,Automatic,Mercedes-Benz,M Class,2013,Silver,Foreign Used,137387,3500,Imported,Imported,Mercedes-Benz M Class 2013 Silver,,,,,,
+"₦ 23,625,000",Petrol,Automatic,Mercedes-Benz,GLK-Class,2015,Black,Foreign Used,203737,3500,Imported,Imported,Mercedes-Benz GLK-Class 2015 Black,Base GLK 350 4dr AWD 4MATIC (3.5L 6cyl 7A),All Wheel,5,6,302,
+"₦ 20,800,000",Petrol,Automatic,Mercedes-Benz,GLK-Class,2012,Red,Foreign Used,288812,3500,Imported,Imported,Mercedes-Benz GLK-Class 350 4MATIC 2012 Red,350 4MATIC,All Wheel,5,6,268,
+"₦ 7,280,000",Petrol,Automatic,Toyota,Camry,2007,Black,Local Used,106313,2400,Registered,Registered,Toyota Camry 2007 Black,,,,,,
+"₦ 84,000,000",Petrol,Automatic,Mercedes-Benz,GLE-Class,2020,Green,Foreign Used,33685,2000,Imported,Imported,Mercedes-Benz GLE-Class 2020 Green,,,,,,
+"₦ 7,280,000",Petrol,Automatic,Toyota,Camry,2007,Gray,Local Used,145452,2400,Registered,Registered,Toyota Camry 2007 Gray,,,,,,
+"₦ 15,600,000",Petrol,Automatic,Toyota,Camry,2013,Black,Foreign Used,173839,2500,Imported,Imported,Toyota Camry 2013 Black,,,,,,
+"₦ 23,100,000",Petrol,Automatic,Toyota,RAV4,2014,Gray,Foreign Used,32987,2500,Imported,Imported,Toyota RAV4 2014 Gray,,,,,,
+"₦ 8,112,000",Petrol,Automatic,Toyota,Camry,2007,Gray,Local Used,91801,2400,Registered,Registered,Toyota Camry 2007 Gray,,,,,,LAGOS
+"₦ 23,100,000",Petrol,Automatic,Toyota,RAV4,2014,Gray,Foreign Used,32987,2500,Imported,Imported,Toyota RAV4 2014 Gray,,,,,,
+"₦ 8,112,000",Petrol,Automatic,Toyota,Camry,2007,Gray,Local Used,91801,2400,Registered,Registered,Toyota Camry 2007 Gray,,,,,,LAGOS
+"₦ 15,750,000",Petrol,Automatic,Hyundai,Sonata,2016,Red,Foreign Used,129297,2400,Imported,Imported,Hyundai Sonata 2016 Red,,,,,,
+"₦ 42,000,000",Petrol,Automatic,Land Rover,Range Rover,2014,Black,Foreign Used,148371,3000,Imported,Imported,Land Rover Range Rover 2014 Black,,,,,,
+"₦ 4,725,000",Petrol,Automatic,Toyota,Corolla,2012,Black,Local Used,245991,1800,Registered,Registered,Toyota Corolla 2012 Black,,,,,,Lagos
+"₦ 2,730,000",Petrol,Automatic,Honda,Accord,1998,Silver,Local Used,301825,2400,Registered,Registered,Honda Accord 2.0 VTS 1998 Silver,2.0 VTS,Front Wheel,5,4,152,LAGOS
+"₦ 12,480,000",Petrol,Automatic,Toyota,Tacoma,2007,Blue,Local Used,361169,4000,Registered,Imported,Toyota Tacoma 2007 Blue,,,,,,
+"₦ 3,675,000",Petrol,Automatic,Subaru,Tribeca,2008,Gray,Local Used,279701,,Registered,Imported,Subaru Tribeca 2008 Gray,,,,,,LAGOS
+"₦ 4,200,000",Petrol,Automatic,Mercedes-Benz,C230,2004,Gray,Local Used,1,2000,Registered,Registered,Mercedes-Benz C230 2004 Gray,,,,,,KADUNA
+"₦ 9,450,000",Petrol,Automatic,Audi,Q7,2012,Red,Local Used,81277,3000,Registered,Imported,Audi Q7 3.0T S line Quattro 2012 Red,3.0T S line Quattro,All Wheel,5,6,338,Abuja
+"₦ 4,935,000",Petrol,Automatic,Honda,Accord,2012,Black,Local Used,1480484,2000,Registered,Registered,Honda Accord 2012 Black,,,,,,ABUJA
+"₦ 2,856,000",Petrol,Automatic,Honda,CR-V,2004,Red,Local Used,182695,2400,Registered,Registered,Honda CR-V 2004 Red,,,,,,
+"₦ 5,250,000",Petrol,Automatic,Toyota,Camry,2010,Silver,Local Used,122860,2500,Registered,Registered,Toyota Camry 2010 Silver,Base 4dr Sedan (2.5L 4cyl 6M),Front,5,4,169,Lagos
+"₦ 14,560,000",Petrol,Automatic,Toyota,Corolla,2012,Blue,Foreign Used,199263,1800,Imported,Imported,Toyota Corolla 2012 Blue,L 4dr Sedan (1.8L 4cyl 5M),Front,,4,132,
+"₦ 14,700,000",Petrol,Automatic,GAC,GS3,2021,Black,Local Used,36597,2500,Registered,Imported,GAC GS3 2021 Black,,,,,,Lagos
+"₦ 3,675,000",Petrol,Automatic,Subaru,Forester,2002,White,Local Used,213054,2500,Registered,Imported,Subaru Forester 2002 White,,,,,,LAGOS
+"₦ 14,700,000",Petrol,Automatic,GAC,GS3,2021,Black,Local Used,36597,2500,Registered,Imported,GAC GS3 2021 Black,,,,,,Lagos
+"₦ 4,368,000",Petrol,Automatic,Toyota,Solara,2004,Silver,Local Used,276436,2400,Registered,Registered,Toyota Solara 2004 Silver,,,,,,ABUJA
+"₦ 5,250,000",Petrol,Automatic,Toyota,Corolla,2008,Silver,Local Used,241988,1400,Registered,Registered,Toyota Corolla 2008 Silver,,,,,,Lagos
+"₦ 2,772,000",Petrol,Automatic,Toyota,Sienna,1998,Blue,Local Used,135327,2400,Registered,Registered,Toyota Sienna 1998 Blue,,,,,,Lagos
+"₦ 3,465,000",Petrol,Automatic,Toyota,Avalon,2000,Gold,Local Used,326803,3000,Registered,Registered,Toyota Avalon 2000 Gold,,,,,,
+"₦ 13,650,000",Petrol,CVT,BMW,X6,2008,Green,Local Used,112327,3000,Registered,Registered,BMW X6 2008 Green,,,,,,
+"₦ 4,074,000",Petrol,Manual,Toyota,Corolla,2009,Green,Local Used,151665,1800,Registered,Registered,Toyota Corolla 2009 Green,,,,,,KWARA
+"₦ 9,360,000",Petrol,Automatic,Honda,Accord Crosstour,2010,White,Local Used,187581,3500,Registered,Registered,Honda Accord Crosstour EX-L AWD 2010 White,EX-L AWD,All Wheel,5,6,275,Lagos
+"₦ 9,975,000",Petrol,Automatic,Toyota,FJ Cruiser,2007,Black,Local Used,180479,4000,Registered,Imported,Toyota FJ Cruiser Base 4x4 2007 Black,Base 4x4,,,,,LAGOS
+"₦ 5,670,000",Petrol,Automatic,Hyundai,I10,2015,Black,Local Used,125623,1100,Registered,Registered,Hyundai I10 2015 Black,,,,,,
+"₦ 4,200,000",Hybrid,CVT,Honda,Civic,2007,Silver,Local Used,339470,,Registered,Registered,Honda Civic 2007 Silver,,,,,,LAGOS
+"₦ 7,904,000",Petrol,Automatic,Toyota,Camry,2008,Gray,Local Used,188302,2500,Registered,Registered,Toyota Camry 2008 Gray,,,,,,Lagos
+"₦ 4,200,000",Petrol,Manual,Peugeot,308,2005,Red,Foreign Used,155188,1400,Imported,Imported,Peugeot 308 2005 Red,,,,,,
+"₦ 2,625,000",Petrol,Manual,Peugeot,307,2004,Blue,Local Used,411880,1800,Registered,Registered,Peugeot 307 2004 Blue,,,,,,Abuja
+"₦ 3,360,000",Petrol,Automatic,Kia,Sportage,2007,Black,Local Used,250000,2000,Registered,Brand new,Kia Sportage 2007 Black,,,,,,ENUGU
+"₦ 4,725,000",Petrol,Automatic,Mercedes-Benz,C230,2007,White,Local Used,241085,2500,Registered,Registered,Mercedes-Benz C230 2007 White,,,,,,Kogi
+"₦ 6,720,000",Petrol,Automatic,Audi,A4,2010,Gray,Local Used,208205,2000,Registered,Imported,Audi A4 2010 Gray,,,,,,Abuja
+"₦ 6,300,000",Petrol,Automatic,Audi,Q7,2007,Black,Local Used,328777,3600,Registered,Brand new,Audi Q7 2007 Black,,,,,,
+"₦ 3,570,000",Petrol,Automatic,Kia,Cerato,2011,Black,Local Used,991132,1800,Registered,Registered,Kia Cerato 2011 Black,,,,,,LAGOS
+"₦ 3,307,500",Petrol,Automatic,Toyota,Camry,2006,Brown,Local Used,392750,2400,Registered,Imported,Toyota Camry 2.4 XLi Automatic 2006 Brown,2.4 XLi Automatic,Front,5,,154,LAGOS
+"₦ 4,500,000",Petrol,Automatic,Toyota,Camry,1999,Gray,Local Used,211045,2200,Registered,Imported,Toyota Camry 1999 Gray,,,,,,
+"₦ 2,520,000",Petrol,Manual,Peugeot,406,2003,Green,Local Used,200885,2000,Registered,Registered,Peugeot 406 2003 Green,,,,,,Taraba
+"₦ 3,255,000",Petrol,Automatic,Mazda,3,2008,Black,Local Used,405354,2000,Registered,Imported,Mazda 3 2008 Black,,,,,,LAGOS
+"₦ 4,200,000",Petrol,Manual,Mazda,323,1999,Brown,Local Used,336156,1300,Registered,Registered,Mazda 323 1999 Brown,,,,,,Abuja
+"₦ 8,085,000",Petrol,Automatic,Audi,A6,2014,Black,Local Used,30179,2000,Registered,Imported,Audi A6 2014 Black,,,,,,ABUJA
+"₦ 16,640,000",Petrol,Automatic,Land Rover,Range Rover Sport,2013,Green,Local Used,342518,,Registered,Imported,Land Rover Range Rover Sport 2013 Green,,,,,,Kogi
+"₦ 7,875,000",Petrol,Automatic,Audi,Q7,2014,Black,Local Used,42687,3000,Registered,Imported,Audi Q7 2014 Black,,,,,,
+"₦ 4,095,000",Petrol,Automatic,Toyota,Corolla,2003,Gold,Local Used,299999,1800,Registered,Registered,Toyota Corolla 2003 Gold,,,,,,LAGOS
+"₦ 2,625,000",Petrol,Manual,Volkswagen,Jetta,2007,Gold,Local Used,,2000,Registered,Registered,Volkswagen Jetta 2007 Gold,,,,,,LAGOS
+"₦ 4,935,000",Petrol,Automatic,Honda,Accord,2012,Gray,Foreign Used,132209,2400,Imported,Imported,Honda Accord 2012 Gray,,,,,,
+"₦ 4,200,000",Petrol,Automatic,Mercedes-Benz,C180,1999,Gray,Local Used,253697,2400,Registered,Registered,Mercedes-Benz C180 1999 Gray,,,,,,
+"₦ 4,200,000",Petrol,Automatic,Mazda,3,2011,Blue,Local Used,292295,2000,Registered,Imported,Mazda 3 2011 Blue,,,,,,
+"₦ 2,520,000",Petrol,Manual,Volkswagen,Passat,1999,Blue,Local Used,174095,1800,Registered,Imported,Volkswagen Passat 1999 Blue,,,,,,Lagos
+"₦ 2,600,000",Petrol,Automatic,Toyota,Camry,1998,Gray,Local Used,217446,,Registered,Registered,Toyota Camry 1998 Gray,,,,,,
+"₦ 2,912,000",Petrol,Automatic,Toyota,Camry,2000,Gold,Local Used,,2200,Registered,Registered,Toyota Camry 2000 Gold,,,,,,Lagos
+"₦ 7,350,000",Petrol,Automatic,Acura,TL,2012,Black,Local Used,189963,3500,Registered,Imported,Acura TL 2012 Black,,,,,,
+"₦ 2,562,000",Petrol,Automatic,Honda,Accord,2003,Gold,Local Used,250000,2400,Registered,Registered,Honda Accord 2003 Gold,,,,,,ABUJA
+"₦ 3,150,000",Petrol,Automatic,Mitsubishi,Outlander,2003,Black,Local Used,173086,2400,Registered,Registered,Mitsubishi Outlander 2003 Black,,,,,,
+"₦ 3,823,000",Petrol,Automatic,Honda,Civic,2007,Black,Local Used,311068,1800,Registered,Registered,Honda Civic 2007 Black,,,,,,LAGOS
+"₦ 7,875,000",Petrol,Automatic,Audi,A4,2013,Silver,Local Used,278599,2000,Registered,Imported,Audi A4 2013 Silver,,,,,,Abuja
+"₦ 3,990,000",Petrol,Manual,Kia,Cerato,2012,Gray,Local Used,198874,1600,Registered,Registered,Kia Cerato 2012 Gray,,,,,,LAGOS
+"₦ 2,625,000",Petrol,Automatic,Honda,Pilot,2005,Black,Local Used,208793,3500,Registered,Imported,Honda Pilot EX 4x4 (3.5L 6cyl 5A) 2005 Black,EX 4x4 (3.5L 6cyl 5A),All Wheel,8,6,243,IMO
+"₦ 4,056,000",Petrol,Automatic,Toyota,Camry,2002,Blue,Local Used,280976,2200,Registered,Registered,Toyota Camry 2002 Blue,,,,,,Abuja
+"₦ 4,725,000",Petrol,Automatic,BMW,330i,2006,Blue,Local Used,215223,3000,Registered,Registered,BMW 330i 2006 Blue,,,,,,
+"₦ 2,835,000",Petrol,Automatic,Nissan,Xterra,2004,Gray,Local Used,176496,3300,Registered,Registered,Nissan Xterra 2004 Gray,,,,,,
+"₦ 3,675,000",Hybrid,Automatic,Toyota,Prius,2005,Blue,Local Used,125231,1600,Registered,Registered,Toyota Prius 2005 Blue,,,,,,
+"₦ 3,848,000",Petrol,Automatic,Toyota,Camry,2002,Gray,Local Used,306114,3000,Registered,Registered,Toyota Camry 2002 Gray,,,,,,AKWA IBOM
+"₦ 2,625,000",Petrol,Automatic,Honda,Accord,2003,Gray,Local Used,266130,2400,Registered,Registered,Honda Accord 2003 Gray,,,,,,ABUJA
+"₦ 3,150,000",Petrol,Automatic,Mazda,6,2004,Red,Local Used,330769,3000,Registered,Registered,Mazda 6 2004 Red,,,,,,Abuja
+"₦ 3,780,000",Petrol,Automatic,Toyota,Avensis,2007,Black,Local Used,380919,2000,Registered,Registered,Toyota Avensis 2007 Black,,,,,,IMO
+"₦ 4,725,000",Petrol,Automatic,Toyota,Avalon,2007,Gray,Local Used,197386,3500,Registered,Imported,Toyota Avalon Limited 2007 Gray,Limited,Front Wheel,5,6,268,CROSS RIVER
+"₦ 3,832,500",Petrol,Automatic,Ford,Escape,2008,White,Local Used,154937,2300,Registered,Registered,Ford Escape 2008 White,,,,,,LAGOS
+"₦ 12,937,500",Petrol,Automatic,Ford,Explorer,2013,Black,Local Used,170947,3500,Registered,Imported,Ford Explorer 2013 Black,,,,,,
+"₦ 3,120,000",Petrol,Automatic,Toyota,Camry,2001,Gray,Local Used,224903,2200,Registered,Registered,Toyota Camry 2001 Gray,,,,,,LAGOS
+"₦ 4,200,000",Petrol,Automatic,Toyota,Avensis,2011,Black,Local Used,222326,2000,Registered,Registered,Toyota Avensis 2011 Black,,,,,,Lagos
+"₦ 3,675,000",Petrol,Automatic,Hyundai,Tucson,2009,Gray,Local Used,254134,2700,Registered,Registered,Hyundai Tucson 2009 Gray,,,,,,
+"₦ 3,780,000",Petrol,Automatic,Lexus,RX 300,2000,White,Local Used,123541,3000,Registered,Registered,Lexus RX 300 2000 White,,,,,,
+"₦ 3,150,000",Petrol,Automatic,Lexus,GS,2003,Black,Local Used,339403,,Registered,Registered,Lexus GS 2003 Black,,,,,,BAYELSER
+"₦ 3,150,000",Petrol,Automatic,Honda,Accord,2007,Gray,Local Used,144020,3500,Registered,Registered,Honda Accord 2007 Gray,,,,,,
+"₦ 3,150,000",Petrol,Automatic,Honda,Accord,2007,Gray,Local Used,144020,3500,Registered,Registered,Honda Accord 2007 Gray,,,,,,
+"₦ 4,200,000",Petrol,Automatic,BMW,S-Series,2006,White,Local Used,290401,3000,Registered,Imported,BMW S-Series 2006 White,,,,,,LAGOS
+"₦ 6,615,000",Petrol,Automatic,Peugeot,307,2005,Silver,Foreign Used,214492,1800,Imported,Imported,Peugeot 307 SW 2.0 Premium 2005 Silver,SW 2.0 Premium,Front Wheel,,4,136,
+"₦ 2,625,000",Petrol,Automatic,Dodge,Durango,2006,Red,Local Used,264548,5700,Registered,Registered,Dodge Durango 2006 Red,,,,,,
+"₦ 7,312,500",Petrol,Automatic,Mazda,CX-7,2008,Red,Local Used,298948,2300,Registered,Registered,Mazda CX-7 2008 Red,,,,,,ABUJA
+"₦ 3,570,000",Petrol,Automatic,Peugeot,301,2014,Silver,Local Used,176710,1600,Registered,Imported,Peugeot 301 2014 Silver,,,,,,ABUJA
+"₦ 3,120,000",Petrol,Automatic,Honda,CR-V,2000,Black,Local Used,254537,2000,Registered,Registered,Honda CR-V 2000 Black,,,,,,
+"₦ 3,150,000",Petrol,Automatic,Hyundai,XG350,2005,Black,Local Used,205322,3500,Registered,Imported,Hyundai XG350 2005 Black,,,,,,
+"₦ 3,952,000",Petrol,Automatic,Toyota,Camry,2002,Red,Local Used,288495,2200,Registered,Registered,Toyota Camry 2002 Red,,,,,,Osun
+"₦ 2,835,000",Petrol,Automatic,Nissan,Xterra,2006,Black,Local Used,153763,4000,Registered,Registered,Nissan Xterra 2006 Black,,,,,,Lagos State
+"₦ 6,136,000",Petrol,Automatic,Volvo,XC90,2008,Black,Local Used,118791,3200,Registered,Registered,Volvo XC90 2008 Black,,,,,,Lagos
+"₦ 3,465,000",Petrol,Automatic,Toyota,Corolla,2004,Red,Local Used,,1800,Registered,Imported,Toyota Corolla 2004 Red,,,,,,
+"₦ 15,670,000",Petrol,Automatic,GAC,GS3,2022,White,Local Used,74165,1500,Registered,Brand new,GAC GS3 2022 White,,,,,,
+"₦ 2,940,000",Petrol,Automatic,Nissan,X-Trail,2005,Black,Local Used,282225,2000,Registered,Imported,Nissan X-Trail 2.5 Sport 2005 Black,2.5 Sport,All Wheel,5,4,165,LAGOS
+"₦ 3,360,000",Petrol,Automatic,Honda,Civic,2006,Silver,Local Used,174260,1800,Registered,Imported,Honda Civic 1.8i-VTEC VXi Automatic 2006 Silver,1.8i-VTEC VXi Automatic,All Wheel,5,4,141,
+"₦ 2,310,000",Petrol,Manual,Volkswagen,Bora,2001,Silver,Local Used,296021,2400,Registered,Registered,Volkswagen Bora 2001 Silver,,,,,,OYO
+"₦ 4,200,000",Petrol,Automatic,BMW,330i,2006,Black,Local Used,298446,3000,Registered,Registered,BMW 330i 2006 Black,,,,,,Ondo
+"₦ 2,940,000",Petrol,Manual,Kia,Rio,2009,Blue,Local Used,92966,1400,Registered,Registered,Kia Rio 2009 Blue,,,,,,
+"₦ 2,912,000",Petrol,Automatic,Toyota,Camry,1998,Gold,Local Used,423407,2200,Registered,Registered,Toyota Camry 1998 Gold,,,,,,LAGOS
+"₦ 3,360,000",Petrol,Automatic,Honda,Pilot,2006,Silver,Local Used,199120,3500,Registered,Registered,Honda Pilot 2006 Silver,,,,,,EDO
+"₦ 3,990,000",Petrol,Automatic,Mercedes-Benz,C240,2001,Black,Local Used,,3500,Registered,Registered,Mercedes-Benz C240 2.6 RWD 2001 Black,2.6 RWD,Rear Wheel,5,6,173,AKWA IBOM
+"₦ 2,677,500",Petrol,Automatic,Honda,Accord,2003,Black,Local Used,343317,3500,Registered,Registered,Honda Accord Automatic 2003 Black,Automatic,Front Wheel,,,,
+"₦ 2,912,000",Petrol,Automatic,Honda,Civic,2004,Red,Local Used,172058,1700,Registered,Registered,Honda Civic 2004 Red,,,,,,NASARAWA
+"₦ 6,240,000",Petrol,Automatic,Honda,Accord,2009,Blue,Local Used,152341,2500,Registered,Registered,Honda Accord 2009 Blue,,,,,,
+"₦ 3,328,000",Petrol,Automatic,Honda,Civic,2003,Red,Local Used,373786,1700,Registered,Registered,Honda Civic 2003 Red,,,,,,RIVERS
+"₦ 2,730,000",Petrol,Automatic,Acura,MDX,2002,Green,Local Used,110770,3500,Registered,Registered,Acura MDX 2002 Green,,,,,,OGUN
+"₦ 12,375,000",Petrol,Automatic,Mercedes-Benz,M Class,2009,Silver,Local Used,143427,3500,Registered,Imported,Mercedes-Benz M Class ML350 AWD 4MATIC 2009 Silver,ML350 AWD 4MATIC,All Wheel,5,6,268,Abuja
+"₦ 2,625,000",Petrol,Automatic,Honda,CR-V,2004,Black,Local Used,199331,2400,Registered,Registered,Honda CR-V 2004 Black,,,,,,
+"₦ 4,200,000",Petrol,Automatic,Mercedes-Benz,C230,2006,Silver,Local Used,55494,1800,Registered,Registered,Mercedes-Benz C230 2006 Silver,,,,,,
+"₦ 47,250,000",Petrol,Automatic,Changan,UNI-T,2024,Black,Local Used,4531,1500,Registered,Brand new,Changan UNI-T 2024 Black,,,,,,
+"₦ 4,305,000",Petrol,Automatic,BMW,530i,2005,Gray,Local Used,77550,3000,Registered,Registered,BMW 530i 2005 Gray,,,,,,Lagos
+"₦ 2,940,000",Petrol,Automatic,Toyota,Avalon,2004,Brown,Local Used,314600,3500,Registered,Registered,Toyota Avalon 2004 Brown,,,,,,Oyo
+"₦ 4,410,000",Petrol,Automatic,BMW,325i,2006,Blue,Local Used,468044,3500,Registered,Registered,BMW 325i 2006 Blue,,,,,,DELTA
+"₦ 3,360,000",Petrol,Manual,Kia,Rio,2014,Black,Local Used,125343,1200,Registered,Registered,Kia Rio 2014 Black,,,,,,LAGOS
+"₦ 2,625,000",Petrol,Automatic,Infiniti,G35,2004,Black,Local Used,250000,3500,Registered,Imported,Infiniti G35 2004 Black,,,,,,ENUGU
+"₦ 4,200,000",Petrol,Manual,Honda,Civic,2008,Silver,Local Used,134618,2400,Registered,Registered,Honda Civic 2008 Silver,,,,,,LAGOS
+"₦ 3,120,000",Petrol,Automatic,Toyota,Camry,2000,Silver,Local Used,284442,2500,Registered,Registered,Toyota Camry 2000 Silver,,,,,,LAGOS
+"₦ 4,992,000",Petrol,Automatic,Volvo,XC90,2008,Burgandy,Local Used,356610,3200,Registered,Imported,Volvo XC90 2008 Burgandy,,,,,,Lagos
+"₦ 2,520,000",Petrol,Automatic,Honda,CR-V,1998,Black,Local Used,123452,2000,Registered,Registered,Honda CR-V 1998 Black,,,,,,
+"₦ 2,965,000",Petrol,Manual,Kia,Optima,2009,Black,Local Used,191502,2000,Registered,Registered,Kia Optima 2009 Black,,,,,,
+"₦ 3,255,000",Petrol,Automatic,Hyundai,Sonata,2009,Blue,Local Used,234934,2400,Registered,Registered,Hyundai Sonata 2009 Blue,,,,,,Plateau
+"₦ 2,600,000",Petrol,Automatic,Honda,Accord,2002,Blue,Local Used,410071,2400,Registered,Imported,Honda Accord 2002 Blue,,,,,,Oyo state
+"₦ 3,360,000",Petrol,Automatic,Honda,CR-V,2005,Green,Foreign Used,,2400,Imported,Imported,Honda CR-V 2005 Green,,,,,,
+"₦ 7,875,000",Petrol,Automatic,Mercedes-Benz,E350,2008,Black,Local Used,149827,3500,Registered,Registered,Mercedes-Benz E350 2008 Black,,,,,,LAGOS
+"₦ 2,625,000",Petrol,Automatic,Honda,CR-V,1998,Green,Local Used,211027,2000,Registered,Imported,Honda CR-V 2.0 4WD Automatic 1998 Green,2.0 4WD Automatic,All Wheel,5,4,150,LAGOS
+"₦ 3,045,000",Petrol,Automatic,Toyota,Corolla,2007,Black,Local Used,396468,1800,Registered,Registered,Toyota Corolla 2007 Black,,,,,,
+"₦ 3,150,000",Petrol,Automatic,Hyundai,Sonata,2007,Gray,Local Used,119418,3300,Registered,Registered,Hyundai Sonata 2007 Gray,,,,,,River state
+"₦ 3,360,000",Petrol,Automatic,Mercedes-Benz,C230,2004,Blue,Local Used,62313,,Registered,Imported,Mercedes-Benz C230 2004 Blue,,,,,,LAGOS
+"₦ 3,570,000",Petrol,Automatic,Hyundai,Elantra,2011,Red,Local Used,109692,1600,Registered,Imported,Hyundai Elantra GLS 2011 Red,GLS,Front Wheel,5,4,150,OGUN
+"₦ 3,150,000",Petrol,Automatic,Mercedes-Benz,M Class,2001,Blue,Local Used,337423,3700,Registered,Imported,Mercedes-Benz M Class 2001 Blue,,,,,,DELTA
+"₦ 3,150,000",Petrol,Automatic,Mercedes-Benz,C200,2003,Blue,Local Used,169495,1800,Registered,Registered,Mercedes-Benz C200 2003 Blue,,,,,,
+"₦ 2,940,000",Petrol,Automatic,Hyundai,Tucson,2005,Green,Local Used,351528,2700,Registered,Imported,Hyundai Tucson GL 4x4 2005 Green,GL 4x4,4x4,5,4,140,LAGOS
+"₦ 2,975,000",Petrol,Automatic,Mercedes-Benz,C280,2007,Black,Local Used,453783,3000,Registered,Registered,Mercedes-Benz C280 2007 Black,,,,,,Abuja
+"₦ 2,514,750",Petrol,Automatic,Honda,Accord,2005,Black,Local Used,368422,2400,Registered,Imported,Honda Accord 2.4 Type S Automatic 2005 Black,2.4 Type S Automatic,Front Wheel,,,,LAGOS
+"₦ 4,452,000",Petrol,Manual,Peugeot,307,2008,Black,Foreign Used,211472,1200,Imported,Imported,Peugeot 307 2008 Black,,,,,,
+"₦ 3,352,000",Petrol,Automatic,Honda,Accord,2004,Gold,Local Used,125071,2400,Registered,Registered,Honda Accord 2004 Gold,,,,,,LAGOS
+"₦ 3,150,000",Petrol,Automatic,Mercedes-Benz,C240,2004,Black,Local Used,10299,2600,Registered,Registered,Mercedes-Benz C240 2.6 RWD 2004 Black,2.6 RWD,Rear Wheel,5,6,173,LAGOS
+"₦ 2,835,000",Petrol,Automatic,Lexus,IS,2002,White,Local Used,205383,2000,Registered,Imported,Lexus IS 2002 White,,,,,,LAGOS
+"₦ 3,150,000",Petrol,Automatic,Honda,CR-V,2007,Black,Local Used,114304,2400,Registered,Registered,Honda CR-V 2007 Black,,,,,,EDO
+"₦ 3,465,000",Petrol,Automatic,Mercedes-Benz,CLK,2001,Blue,Local Used,200537,2600,Registered,Imported,Mercedes-Benz CLK 2001 Blue,,,,,,
+"₦ 3,352,000",Petrol,Automatic,Honda,Accord,2004,Gold,Local Used,125071,2400,Registered,Registered,Honda Accord 2004 Gold,,,,,,LAGOS
+"₦ 3,150,000",Petrol,Automatic,Mercedes-Benz,C-Class,2000,Black,Local Used,132542,2000,Registered,Imported,Mercedes-Benz C-Class C 180 (W203) 2000 Black,C 180 (W203),Rear Wheel,5,4,129,
+"₦ 3,150,000",Petrol,Automatic,Suzuki,XL-7,2003,Gold,Local Used,201590,2700,Registered,Imported,Suzuki XL-7 2003 Gold,,,,,,Lagos
+"₦ 2,835,000",Petrol,Automatic,Toyota,Avalon,2003,Silver,Local Used,123064,3000,Registered,Registered,Toyota Avalon XLS w/ Bucket Seats 2003 Silver,XLS w/ Bucket Seats,Front Wheel,5 or 6,6,210,LAGOS
+"₦ 3,150,000",Petrol,Manual,Kia,Rio,2013,Black,Local Used,213667,1200,Registered,Registered,Kia Rio 2013 Black,,,,,,
+"₦ 2,466,000",Petrol,Automatic,Honda,Accord,2004,Black,Local Used,283358,2400,Registered,Registered,Honda Accord 2004 Black,,,,,,LAGOS
+"₦ 3,150,000",Petrol,Automatic,Audi,A4,2002,Blue,Local Used,263502,2000,Registered,Imported,Audi A4 2002 Blue,,,,,,LAGOS
+"₦ 3,360,000",Petrol,Automatic,Audi,A6,1998,Gray,Local Used,270931,3500,Registered,Registered,Audi A6 1998 Gray,,,,,,ABUJA
+"₦ 2,520,000",Petrol,Automatic,Honda,CR-V,2000,Silver,Foreign Used,130773,2000,Imported,Imported,Honda CR-V 2.0 4WD Automatic 2000 Silver,2.0 4WD Automatic,All Wheel,5,4,150,
+"₦ 2,310,000",Petrol,Automatic,Toyota,Sienna,1999,Green,Local Used,432008,3000,Registered,Registered,Toyota Sienna 1999 Green,,,,,,Abia
+"₦ 2,992,500",Petrol,Automatic,Toyota,Sienna,2000,Blue,Local Used,234590,3300,Registered,Registered,Toyota Sienna LE & 1 hatch 2000 Blue,LE & 1 hatch,Front Wheel,7,6,194,AKWA IBOM
+"₦ 3,990,000",Petrol,Automatic,Toyota,Corolla,2003,Black,Local Used,211438,1800,Registered,Registered,Toyota Corolla 2003 Black,,,,,,Lagos
+"₦ 2,835,000",Petrol,Manual,Hyundai,Accent,2008,Silver,Local Used,229384,1400,Registered,Registered,Hyundai Accent 1.3 LS 2008 Silver,1.3 LS,Front Wheel,5,,,AKWA IBOM
+"₦ 2,415,000",Petrol,Automatic,Volvo,S60,2001,Gray,Local Used,322589,2400,Registered,Imported,Volvo S60 2001 Gray,,,,,,
+"₦ 3,150,000",Petrol,Automatic,Honda,Accord,2007,Gray,Local Used,141033,3500,Registered,Registered,Honda Accord 2007 Gray,,,,,,Lagos
+"₦ 4,680,000",Petrol,Automatic,Toyota,Camry,2002,Silver,Local Used,368139,2400,Registered,Registered,Toyota Camry 2002 Silver,,,,,,IMO
+"₦ 15,750,000",Petrol,Automatic,Toyota,Highlander,2008,Black,Foreign Used,438226,3500,Imported,Imported,Toyota Highlander 2008 Black,,,,,,
+"₦ 29,120,000",Petrol,Automatic,Mercedes-Benz,M Class,2013,Black,Foreign Used,116376,3500,Imported,Imported,Mercedes-Benz M Class 2013 Black,,,,,,
+"₦ 13,520,000",Petrol,Automatic,Toyota,RAV4,2007,White,Foreign Used,105742,2400,Imported,Imported,Toyota RAV4 2007 White,,,,,,
+"₦ 19,845,000",Petrol,Automatic,Mercedes-Benz,GLK-Class,2013,Black,Foreign Used,248071,3500,Imported,Imported,Mercedes-Benz GLK-Class 2013 Black,,,,,,
+"₦ 19,425,000",Petrol,Automatic,Toyota,Venza,2011,Black,Foreign Used,144796,2500,Imported,Imported,Toyota Venza 2011 Black,,,,,,
+"₦ 15,600,000",Petrol,Automatic,Lexus,RX,2009,White,Foreign Used,177627,3500,Imported,Imported,Lexus RX 2009 White,,,,,,
+"₦ 29,120,000",Petrol,Automatic,Mercedes-Benz,M Class,2012,Gray,Foreign Used,225534,3500,Imported,Imported,Mercedes-Benz M Class 2012 Gray,,,,,,
+"₦ 9,880,000",Petrol,Automatic,Toyota,Corolla,2009,Red,Local Used,282481,1800,Registered,Imported,Toyota Corolla 2009 Red,LE 4dr Sedan (1.8L 4 cyl 4A),Front,,4,132,Kastina
+"₦ 29,120,000",Petrol,Automatic,Lexus,RX 350,2012,Gray,Foreign Used,109219,3500,Imported,Imported,Lexus RX 350 2012 Gray,,,,,,
+"₦ 20,800,000",Petrol,Automatic,Toyota,Camry,2016,Black,Foreign Used,191564,2500,Imported,Imported,Toyota Camry 2016 Black,,,,,,
+"₦ 35,175,000",Petrol,Automatic,Lexus,GX,2011,Black,Local Used,56834,4600,Registered,Registered,Lexus GX 460 2011 Black,460,All Wheel,7,8,305,
+"₦ 16,640,000",Petrol,Automatic,Hyundai,Sonata,2015,Black,Local Used,164530,2400,Registered,Imported,Hyundai Sonata 2015 Black,,,,,,
+"₦ 23,100,000",Petrol,Automatic,Toyota,RAV4,2014,Gray,Foreign Used,262304,2500,Imported,Imported,Toyota RAV4 2014 Gray,,,,,,
+"₦ 29,120,000",Petrol,Automatic,Toyota,Highlander,2014,Burgandy,Local Used,136488,3500,Registered,Imported,Toyota Highlander 2014 Burgandy,LE 4dr SUV AWD (3.5L 6cyl 6A),All Wheel,8,6,270,

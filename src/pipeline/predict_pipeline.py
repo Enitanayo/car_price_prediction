@@ -36,7 +36,9 @@ class CustomData:
         Year_of_manufacture: int,
         Condition: str,
         Mileage: int,
-        Engine_size: int):
+        Engine_size: int,
+        Selling_Condition: str,
+        Bought_Condition: str):
 
         self.fuel_type = fuel_type
 
@@ -51,6 +53,10 @@ class CustomData:
         self.Mileage = Mileage
 
         self.Engine_size = Engine_size
+        
+        self.Selling_Condition = Selling_Condition
+        
+        self.Bought_Condition = Bought_Condition
 
     def get_data_as_data_frame(self):
         try:
@@ -62,6 +68,8 @@ class CustomData:
                 "Condition": [self.Condition],
                 "Mileage": [self.Mileage],
                 "Engine_size": [self.Engine_size],
+                'Selling_Condition': [self.Selling_Condition],
+                'Bought_Condition': [self.Bought_Condition],
             }
 
             # lj.info(pd.DataFrame(custom_data_input_dict))

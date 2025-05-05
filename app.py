@@ -1,48 +1,101 @@
-from flask import Flask, request, render_template
-# from requests import request
-import numpy as np
+import streamlit as st
 import pandas as pd
-# from src.logger import lj 
+import os
 from src.pipeline.predict_pipeline import CustomData, PredictPipeline
-from sklearn.preprocessing import StandardScaler
 
-app = Flask(__name__)
+# App title
+st.set_page_config(page_title="Car Price Prediction", layout="centered")
+st.title("🚗 Car Price Prediction")
 
+car_makes = ['Toyota', 'Lexus', 'Mercedes-Benz', 'Honda', 'Hyundai', 'Ford',
+       'Nissan', 'Acura', 'Land Rover', 'Peugeot', 'Kia', 'BMW', 'Mazda',
+       'Mitsubishi', 'Volkswagen', 'Jeep']
 
-@app.route('/')
-def index():
-    return render_template('index.html')
+# Input form
+with st.form("car_form"):
+    fuel_type = st.selectbox(
+        "Fuel Type",
+        options=["-", "Petrol", "Diesel", "Hybrid", "CNG"],
+        index=0
+    )
 
-@app.route('/predict_data', methods=['GET','POST'])
-def predict_data():
-    if request.method == 'GET':
-        return render_template('home.html')
-    else:
-        data = CustomData(
-            fuel_type= request.form.get('fuel_type'),
-            gear_type= request.form.get('gear_type'),
-            Make= request.form.get('Make').title(),
-            Year_of_manufacture= int(request.form.get('Year_of_manufacture')),
-            Condition= request.form.get('Condition'),
-            Mileage= float(request.form.get('Mileage')),
-            Engine_size= float(request.form.get('Engine_size'))
-        )
-        
-        pred_df = data.get_data_as_data_frame()
-        print(pred_df)
-        
-        predictdat = PredictPipeline()
-        results = predictdat.predict(pred_df)
-        car_makes = ['Mercedes-Benz', 'BMW', 'Toyota', 'Chevrolet', 'Mini', 'Ford',
-       'Lexus', 'Hyundai', 'Peugeot', 'Acura', 'Land Rover', 'Honda',
-       'Infiniti', 'Mitsubishi', 'Dodge', 'Cadillac', 'Kia', 'Lincoln',
-       'SsangYong', 'Nissan', 'Brabus', 'Renault', 'Geely', 'Jeep',
-       'Mazda', 'Volkswagen', 'Pontiac', 'GMC', 'Chrysler', 'JAC',
-       'Volvo', 'Audi', 'Subaru', 'Porsche', 'Changan', 'Suzuki',
-       'Jaguar', 'Scion', 'Skoda', 'Opel', 'RAM', 'Rover', 'Seat']
-        # return render_template("your_template.html", car_makes=car_makes)
-
-        return render_template('home.html',car_makes=car_makes,results=round(int(results[0]), 2))
+    gear_type = st.selectbox(
+        "Gear Type",
+        options=["-", "Manual", "Automatic", "CVT", "AMT"],
+        index=0
+    )
+    Selling_Condition = st.selectbox(
+        "Selling Condition",
+        options=["-", "Imported", "Registered", "Brand new"],
+        index=0
+    )
     
-if __name__ == '__main__':
-    app.run(host = '0.0.0.0', debug=True)
+    Bought_Condition = st.selectbox(
+        "Bought Condition",
+        options=["-", "Imported", "Registered", "Brand new"],
+        index=0
+    )
+
+# Add empty default for validation
+    make = st.selectbox(
+        "Car Make",
+        options=["-"] + sorted(car_makes),
+        index=0
+    )
+
+    year = st.number_input("Year of Manufacture", min_value=1900, max_value=2025, step=1)
+    
+    condition = st.selectbox(
+        "Condition",
+        options=["-", "Local Used", "Foreign Used", "Brand New"],
+        index=0
+    )
+
+    mileage = st.number_input("Mileage", min_value=0)
+    engine_size = st.number_input("Engine Size (cc)", min_value=0)
+
+    submitted = st.form_submit_button("Predict")
+
+# Form validation and prediction logic
+if submitted:
+    if (
+        fuel_type.startswith("-") or
+        gear_type.startswith("-") or
+        condition.startswith("-") or
+        make.startswith("-")
+    ):
+        st.warning("⚠️ Please complete all the fields before submitting.")
+    else:
+        # Prepare input
+        data = CustomData(
+            fuel_type=fuel_type,
+            gear_type=gear_type,
+            Make=make.title(),
+            Year_of_manufacture=int(year),
+            Condition=condition,
+            Mileage=float(mileage),
+            Engine_size=float(engine_size),
+            Selling_Condition=Selling_Condition,
+            Bought_Condition=Bought_Condition
+        )
+
+        df = data.get_data_as_data_frame()
+
+        # Run prediction
+        pipeline = PredictPipeline()
+        results = pipeline.predict(df)
+        predicted_price = round(results[0])
+
+        # Display result
+        st.success(f"💰 The predicted price is: **₦{predicted_price:,}**")
+        st.write("### Input Summary", df)
+
+        # Save result to CSV
+        df['Predicted_Price'] = predicted_price
+        file_path = "artifacts/predictions.csv"
+        if os.path.exists(file_path):
+            df.to_csv(file_path, mode='a', header=False, index=False)
+        else:
+            df.to_csv(file_path, index=False)
+
+        st.info("✅ Your input and prediction have been saved to `predictions.csv`.")

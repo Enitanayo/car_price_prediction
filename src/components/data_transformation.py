@@ -9,7 +9,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder,StandardScaler
 
 from src.exception import CustomException
-from src.logger import lj
+from src.logger import logging
 import os
 
 from src.utils import save_object
@@ -24,13 +24,13 @@ class DataTransformation:
 
     def get_data_transformer_object(self):
         '''
-        This function si responsible for data trnasformation
+        This function is responsible for data trnasformation
         
         '''
         try:
             numerical_columns = ['Year_of_manufacture', 'Mileage', 'Engine_size']
             categorical_columns = [
-                'fuel_type', 'gear_type', 'Make', 'Condition'
+                'fuel_type', 'gear_type', 'Make', 'Condition','Selling_Condition','Bought_Condition'
             ]
 
             num_pipeline= Pipeline(
@@ -51,8 +51,8 @@ class DataTransformation:
 
             )
 
-            lj.info(f"Categorical columns: {categorical_columns}")
-            lj.info(f"Numerical columns: {numerical_columns}")
+            logging.info(f"Categorical columns: {categorical_columns}")
+            logging.info(f"Numerical columns: {numerical_columns}")
 
             preprocessor=ColumnTransformer(
                 [
@@ -73,9 +73,9 @@ class DataTransformation:
             train_df=pd.read_csv(train_path)
             test_df=pd.read_csv(test_path)
 
-            lj.info("Read train and test data completed")
+            logging.info("Read train and test data completed")
 
-            lj.info("Obtaining preprocessing object")
+            logging.info("Obtaining preprocessing object")
 
             preprocessing_obj=self.get_data_transformer_object()
 
@@ -88,7 +88,7 @@ class DataTransformation:
             input_feature_test_df=test_df.drop(columns=[target_column_name],axis=1)
             target_feature_test_df=test_df[target_column_name]
 
-            lj.info(
+            logging.info(
                 f"Applying preprocessing object on training dataframe and testing dataframe."
             )
 
@@ -102,7 +102,7 @@ class DataTransformation:
             train_arr = np.c_[input_feature_train_arr, np.array(target_feature_train_df)]
             test_arr = np.c_[input_feature_test_arr, np.array(target_feature_test_df)]
             
-            lj.info(f"Saved preprocessing object.")
+            logging.info(f"Saved preprocessing object.")
 
             save_object(
 
