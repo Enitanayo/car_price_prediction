@@ -21,6 +21,7 @@ from src.utils import save_object,evaluate_models
 
 @dataclass
 class ModelTrainerConfig:
+        #storing the filepath for the model file
     trained_model_file_path=os.path.join("artifacts","model.pkl")
 
 class ModelTrainer:
@@ -30,6 +31,7 @@ class ModelTrainer:
 
     def initiate_model_trainer(self,train_array,test_array):
         try:
+            # split the training and testing array into features and target variable
             logging.info("Split training and test input data")
             X_train,y_train,X_test,y_test=(
                 train_array[:,:-1],
@@ -37,6 +39,7 @@ class ModelTrainer:
                 test_array[:,:-1],
                 test_array[:,-1]
             )
+            # models for hyperparameter tuning
             models = {
                 "Random Forest": RandomForestRegressor(),
                 # "Decision Tree": DecisionTreeRegressor(),
@@ -46,6 +49,7 @@ class ModelTrainer:
                 # "CatBoosting Regressor": CatBoostRegressor(verbose=False),
                 # "AdaBoost Regressor": AdaBoostRegressor(),
             }
+            #hyperparameters for the said models
             params={
                 # "Decision Tree": {
                 #     'criterion':['squared_error', 'friedman_mse', 'absolute_error', 'poisson'],
@@ -82,6 +86,7 @@ class ModelTrainer:
                 # } 
             }
 
+            # evaluate models
             model_report:dict=evaluate_models(X_train=X_train,y_train=y_train,X_test=X_test,y_test=y_test,
                                              models=models,param=params)
             
@@ -95,11 +100,13 @@ class ModelTrainer:
             ]
             best_model = models[best_model_name]
 
+            # for a bad performance
             if best_model_score<0.6:
                 raise CustomException("No best model found")
             logging.info(f"Best found model on both training and testing dataset")
             logging.info(f'best model is {best_model_name}')
 
+            # save model object for future use
             save_object(
                 file_path=self.model_trainer_config.trained_model_file_path,
                 obj=best_model

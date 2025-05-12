@@ -12,6 +12,7 @@ class PredictPipeline:
         pass
 
     def predict(self,features):
+        # load preprocessing and model object for use in app
         try:
             model_path=os.path.join("artifacts","model.pkl")
             preprocessor_path=os.path.join('artifacts','preprocessor.pkl')
@@ -19,7 +20,9 @@ class PredictPipeline:
             model=load_object(file_path=model_path)
             preprocessor=load_object(file_path=preprocessor_path)
             print("After Loading")
+            # transform the features with the preprocessor
             data_scaled=preprocessor.transform(features)
+            # predict the target with the model
             preds=model.predict(data_scaled)
             return preds
         
@@ -29,6 +32,7 @@ class PredictPipeline:
 
 
 class CustomData:
+    # used to get data from app for predictions
     def __init__(  self,
         fuel_type: str,
         gear_type: str,
